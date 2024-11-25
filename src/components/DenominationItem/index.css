@@ -1,0 +1,15 @@
+/* Write your CSS here */
+li {
+  width: 45%;
+  list-style: none;
+  margin-top: 10px;
+}
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #382f5a;
+  border: 1px, solid, #c4c4c4;
+  color: #c4c4c4;
+  border-radius: 5px;
+  font-size: 20px;
+}
